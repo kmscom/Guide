@@ -1,2 +1,2 @@
-# guide
-Locate all the documents about applications provided by the developer
+# Welcome to the Guide Home Page of
+* Web Browser Cache Folder Manager
